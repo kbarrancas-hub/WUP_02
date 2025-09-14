@@ -25,6 +25,8 @@ veggy <- cabbages
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 
+When searching through the help files I was look for the ones dealing with numerical data. Vitamin C is a numerical variable that I will examine in relation to Cult, a factor variable. Understanding that factor variables are categorical helped me decide which file to use. 
+
 # Results
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
