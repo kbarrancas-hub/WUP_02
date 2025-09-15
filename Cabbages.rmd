@@ -51,6 +51,8 @@ boxplot(VitC~Cult,data=veggy)
 favstats(VitC~Cult,data=veggy)
 ```
 
+The Q3 value for C39 is 54.74, which is lower than the Q1 value for C52, which is 58. Typically when the Q3 is high then the Q1, it indicates a significant difference between the two. In this case, the probability of seeing another number is very low, highlighting that the difference is unlike to be due to chance.
+
 ## Inferential Results
 
 <!--State hypothesis clearly.  Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc.  Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
