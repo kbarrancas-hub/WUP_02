@@ -40,6 +40,8 @@ When searching through the help files I was look for the ones dealing with numer
 ```{r}
 boxplot(VitC~Cult,data=veggy)
 ```
+  
+  This measures vitamin C content as influenced by cultivation. The C52 box extends above the top of C39, indicating that C52 differs significantly from C39.
 
 ### Numerical Descriptive Results
 
