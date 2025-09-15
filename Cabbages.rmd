@@ -66,3 +66,5 @@ The chances of getting a result like this is .00000003405, which shows that the 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+I looked at Vitamin C (VitC) levels based on the cultivation method (Cult). I used boxplots to compare the groups and noticed that the Q3 for C39 (54.75) was lower than the Q1 for C52 (58), which showed a clear difference between them. Using favstats, I found that the chance of getting a result like this was super small (0.00000003405), which means the two groups are really different. Overall, C52 had higher Vitamin C than C39, showing that VitC depends on how it’s grown. The overall result is that the cultivation method makes a big difference in Vitamin C content.
